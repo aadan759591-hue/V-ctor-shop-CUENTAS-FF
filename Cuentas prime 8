@@ -1,0 +1,26 @@
+<div class="card">
+<img src="cuenta1.jpg" style="width:100%; border-radius:10px;">
+<h2>Cuenta PRO 🔥</h2>
+<p>Nivel alto + skins exclusivas + mascota</p>
+<p>$2,500 MXN</p>
+
+<a class="btn whatsapp" href="https://wa.me/523325740185?text=Quiero%20esta%20cuenta%20PRO">WhatsApp</a>
+</div>
+
+<div class="card">
+<img src="cuenta2.jpg" style="width:100%; border-radius:10px;">
+<h2>Cuenta PRIME 7 💎</h2>
+<p>Heroico, buen nivel, varias skins</p>
+<p>$3,500 MXN</p>
+
+<a class="btn whatsapp" href="https://wa.me/523325740185?text=Quiero%20la%20cuenta%20PRIME%207">WhatsApp</a>
+</div>
+
+<div class="card">
+<img src="cuenta3.jpg" style="width:100%; border-radius:10px;">
+<h2>Cuenta MEDIA 🎮</h2>
+<p>Buen progreso, skins básicas</p>
+<p>$1,200 MXN</p>
+
+<a class="btn whatsapp" href="https://wa.me/523325740185?text=Quiero%20la%20cuenta%20MEDIA">WhatsApp</a>
+</div>
